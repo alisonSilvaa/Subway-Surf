@@ -1,6 +1,6 @@
 # Subway Runner - Jogo Implementado em C
 
-Este é um jogo simples de corrida (inspirado no clássico "Endless Runner") implementado em **C**. O objetivo do jogo é evitar obstáculos enquanto coleta moedas. O jogador pode se mover entre três faixas, pular ou deslizar para evitar os obstáculos e coletar itens.
+Este é um jogo simples de corrida implementado em **C**. O objetivo do jogo é evitar obstáculos enquanto coleta moedas. O jogador pode se mover entre três faixas, pular ou deslizar para evitar os obstáculos e coletar itens.
 
 ## Estruturas de Dados e Algoritmos
 
